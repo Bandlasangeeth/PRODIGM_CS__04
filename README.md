@@ -10,16 +10,7 @@ Saves logs to a file.
 Minimalistic and educational.
 
 
-Usage
-
-
-Clone this repository.
-Run the keylogger script.
-Press keys to generate logs in the specified file.
-
-
 Disclaimer
-
 
 This project is intended for educational purposes only. Use it responsibly and legally. Respect privacy and obtain proper authorization before deploying such tools.
 
